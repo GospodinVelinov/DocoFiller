@@ -1,3 +1,10 @@
+❓ **How to download**
+1. Go to the **Releases** section on the right side of this page. Or follow this link - https://github.com/GospodinVelinov/DocoFiller/releases
+2. Download the latest release/**.zip** file.
+3. Extract (unzip) the file anywhere on your computer.
+4. Open the extracted folder and run **`DocoFiller.exe`**.
+
+> **⚠️ Important Note:** This is a portable application. Make sure to keep all the extracted files and folders together in the same directory as the `.exe` for the program to function properly.
 **DocoFiller** is a lightweight and intuitive desktop application for Windows, designed for the fast and automated generation of service forms. The program simplifies the process of entering data for clients, services rendered, and prices, generating a professional-looking document that is completely ready for printing or saving.
 
 
