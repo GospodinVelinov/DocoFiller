@@ -4,6 +4,7 @@
 3. Extract (unzip) the file anywhere on your computer.
 4. Open the extracted folder and run **`DocoFiller.exe`**.
 
+
 > **⚠️ Important Note:** This is a portable application. Make sure to keep all the extracted files and folders together in the same directory as the `.exe` for the program to function properly.
 **DocoFiller** is a lightweight and intuitive desktop application for Windows, designed for the fast and automated generation of service forms. The program simplifies the process of entering data for clients, services rendered, and prices, generating a professional-looking document that is completely ready for printing or saving.
 
@@ -32,6 +33,13 @@
 
 **-----------------------------------------------**
 
+
+
+❓ **Как да изтеглите приложението**
+1. Отидете в секцията **Releases в дясната част на страницата. Или последвайте този линк - https://github.com/GospodinVelinov/DocoFiller/releases
+2. Изтеглете най-новия release/**.zip** файл.
+3. Разархивирайте изтегления файл на удобно за вас място на компютъра ви.
+4. Отворете разархивираната папка и стартирайте файла **`DocoFiller.exe`**.
 
 
 **DocoFiller** е леко и интуитивно десктоп приложение за Windows, създадено за бързо и автоматизирано генериране на бланки за услуги. Програмата улеснява процеса по въвеждане на данни за клиенти, извършени услуги и цени, като генерира професионално изглеждащ документ, напълно готов за принтиране или запазване.
